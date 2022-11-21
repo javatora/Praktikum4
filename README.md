@@ -1,5 +1,5 @@
 # Praktikum4
-## Repositiry ini dibuat untuk memenuhi tugas Pertemuan 9 - Bahasa Pemrograman (Module Praktikum 4)
+### Repositiry ini dibuat untuk memenuhi tugas Pertemuan 9 - Bahasa Pemrograman (Module Praktikum 4)
 
 #### Nama  : Zainul Mutaqin
 #### NIM   : 312210153
@@ -56,10 +56,23 @@ print(gabung)
 
 ![image](https://user-images.githubusercontent.com/115475424/203014446-5791d28f-6dd4-419b-9d22-eef4e8a4c8c5.png)
 
+- Berikut Hasilnya 
+
+![image](https://user-images.githubusercontent.com/115475424/203018534-49b54ea4-2948-4619-8c7a-ab98424437b6.png)
 
 - Soal Tugas praktikum module 4
 
 ![image](https://user-images.githubusercontent.com/115475424/203014647-e10d0af5-ea7d-48ed-9509-745f1dfba45a.png)
+
+
+- Flowchart
+
+![image](https://user-images.githubusercontent.com/115475424/203019908-caf9bcec-79d4-4ffe-bf0e-fc8af182613b.png)
+
+- Syntax nya
+
+![image](https://user-images.githubusercontent.com/115475424/203021033-08222c4b-99ff-4dad-a30a-f4de5633d243.png)
+
 
 
 - Berikut Hasilnya
